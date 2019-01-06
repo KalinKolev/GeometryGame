@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e0330d4f78046314eb618e6bf312901e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Soliaterz
+  fontNames:
+  - Soliaterz
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 962d0a345b1ddb545844923b4ac4ae8f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
